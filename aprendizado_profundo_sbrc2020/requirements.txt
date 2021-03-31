@@ -1,0 +1,6 @@
+pandas
+matplotlib
+numpy==1.16.4
+sklearn
+keras
+tensorflow
